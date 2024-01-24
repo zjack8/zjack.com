@@ -1,0 +1,109 @@
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+*.pyz
+*.pyw
+*.pyo
+*.pyz
+*.pyw
+*.pyo
+*.pyz
+*.pyw
+*.pyo
+*.pyz
+*.pyw
+*.pyo
+*.pyz
+*.pyw
+*.pyo
+*.pyz
+*.pyw
+*.pyo
+*.pyz
+*.pyw
+*.pyo
+*.pyz
+*.pyw
+
+# Ignore Django-related files
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+
+# Ignore Node.js-related files
+node_modules/
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore compiled JavaScript files
+/build/
+
+# Ignore compiled TypeScript files
+/out/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor-related files
+.vscode/
+.idea/
+
+# Ignore cache and temporary files
+*.log*
+*.swp
+*.swo
+*.swn
+*.swm
+*.bak
+*.tmp
+
+# Ignore Jupyter Notebook files
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Ignore pytest cache
+.pytest_cache/
